@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Inserindo CSS em uma Página</title>
+	<!-- com a tag <link>, inserimos um arquivo CSS externo na página. Este é o método mais recomendado -->
+	<link href="estilos.css" rel="stylesheet">
+	<!-- a tag <style> abaixo aplica estilos apenas para esta página -->
+	<style>
+		p {
+			color: #000099;
+		}
+	</style>
+</head>
+<body>
+	<p>
+		Esta página demonstra a utilização das 3 formas de inserir CSS em uma página:
+	</p>
+	<ol>
+		<li>
+			Utilizando o elemento <code>link</code>, podemos ligar um arquivo CSS externo com a nossa página. Este é o método mais recomendado,
+			pois como podemos ligar uma folha de estilos a diversos arquivos, a manutenção do site fica muito mais fácil (apenas um arquivo CSS pode ser usado para um site inteiro).
+		</li>
+		<li>
+			Utilizando o elemento <code>style</code>, você poderá aplicar estilos que valem para a página onde o elemento está inserido.
+			Os estilos em uma tag <code>style</code> tem precedência sobre os estilos em um arquivo externo (isto faz parte da cascata do CSS, o que veremos ao longo do tempo).
+			Todos os elementos <code>style</code> devem ficar dentro do elemento <code>head</code> de uma página.
+		</li>
+		<li style="color: #505050">
+			Utilizando o <strong>atributo</strong> <code>style</code> em elementos como parágrafos, itens de lista, e muitos outros.
+			Este método é chamado de "inline styles" (ou estilos em linha) por serem localizados junto com o código HTML. Este tipo de CSS tem precedência sobre os outros.
+			Porém, seu uso não é recomendado, pois mistura o código CSS com o HTML (lembre da separação em 3 camadas) e dificulta a manutenção do site. Portanto, o seu uso deve ser feito
+			com cuidado e geralmente não é necessário.
+		</li>
+	</ol>
+	<p>
+		Perceba também a utilização da tag <code>ol</code> (<em>ordered list</em>, ou lista ordenada) para enumerar a lista acima. Semelhante a <code>ul</code>, também utilizamos <code>li</code> para os itens da lista.
+	</p>
+	<p>
+		Nesta página também mostro um exemplo básico da cascata do CSS. O arquivo externo, que tem mais abrangência, define a cor do texto como laranja.
+		Os estilos que estão no elemento <code>style</code> (dentro de <code>head</code>) definem os parágrafos como sendo azuis. Como estes estilos estão dentro do documento, eles tem <strong>precedência</strong> sobre os do arquivo externo.
+		Por fim, o atributo <code>style</code> no último item da lista define a cor como sendo cinza. Como o atributo <code>style</code> define estilos em linha, os seus estilos tem <strong>precedência</strong> sobre todos os outros.
+	</p>
+</body>
+</html>

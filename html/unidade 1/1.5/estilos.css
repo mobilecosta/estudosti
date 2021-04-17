@@ -1,0 +1,29 @@
+/*
+-- Arquivo de CSS
+*/
+
+/* Este é um comentário CSS, útil para organizar o documento, para fazer notas ou esconder partes do código */
+
+/*
+a regra abaixo aplica a fonte Trebuchet MS para a tag <body>. Por causa da cascata do CSS, a fonte é aplicada para todos os elementos dentro da tag.
+Veremos melhor o funcionamento de cada tipo de seletor ao longo do curso.
+*/
+
+body {
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	color: #FF9900;
+	width: 700px;
+}
+
+/*
+A propriedade "font-family" aceita uma lista de fontes. Caso o usuário não tenha a primeira fonte, o navegador tentará mostrar a segunda e assim por diante.
+Nomes com mais de uma palavra (como Trebuchet MS) devem estar entre aspas.
+A última denominação "sans-serif", é genérica, de forma que o sistema operacional (Windows ou Mac OS, por exemplo) irá mostrar a sua fonte padrão sem serifa (fontes sem serifa são como Arial e Trebuchet MS).
+Há também outros valores possíveis como "serif" (com serifa, como Times New Roman), "cursive" (cursiva, como Monotype Corsiva) ou "monospace" (como Courier New).
+
+Com a propriedade "color", aplicamos uma cor cinza (em formato hexadecimal, #505050) ao texto.
+
+Com a propriedade "width", definimos, neste caso em pixels, a largura da página.
+Fiz desta forma apenas para facilitar a leitura do texto. Normalmente não utilizamos esta propriedade na tag <body>.
+Veremos mais sobre o assunto na lição sobre Layouts.
+*/
