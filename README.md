@@ -9,16 +9,29 @@ Ferramentas
 3) GitHub DeskTop - https://desktop.github.com/
 4) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
 5) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
-6) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest
+6) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest (https://www.postman.com/)
+
+Bancos de Dados
+1) https://www.postgresql.org/ - Banco de Dados Relacional
+2) https://www.microsoft.com/pt-br/sql-server/sql-server-downloads - Banco de Dados MicroSoft
+
+ERPs
+1) Protheus - https://tdn.totvs.com.br/display/public/PROT/TOTVS+Linha+Protheus
+2) Fluent - https://conceitho.com/fluent-erp/
 
 FrameWorks
 1) https://angular.io/ - Linguagem de programação criada pela Google baseada em TypeScript 
 2) https://po-ui.io/ - Portinari - Biblioteca de Componentes baseada no Angular
 3) https://www.javascript.com/ - FrameWork para execução de tarefas no navegador
 4) ADVPL - Linguagem de programação proprietaria da Totvs.com, realiza toda a execução dos códigos na Estação e Servidor
+5) PostgRest - Protocolo de comunicação Rest integrado ao PostgreSQL - https://postgrest.org/en/stable/
 
 Conceitos
-1) Rest - Protocolo de comunicação - https://becode.com.br/o-que-e-api-rest-e-restful/
+1) Rest - Protocolo de comunicação - https://pt.wikipedia.org/wiki/REST e https://becode.com.br/o-que-e-api-rest-e-restful/
+  Exemplos de Consumo
+  a) https://www.receitaws.com.br/v1/cnpj/10480616000160
+  b) https://api.conceitho.com/api/protheus/
+3) OpenApi - Padrão para documentação de metodos Rest
 
 Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
