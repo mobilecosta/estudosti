@@ -1,6 +1,6 @@
 Pré-Requisitos
 
-1) Conta no GitHub ()
+1) Crição de Conta no GitHub (https://github.com/)
 
 Ferramentas
 
@@ -10,3 +10,6 @@ Ferramentas
 
 Estudo
 Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
+
+Objetivos:
+1) Criação de projetos atraves do GitHub e criação de código em Comum
