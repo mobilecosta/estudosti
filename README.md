@@ -32,6 +32,7 @@ Conceitos
   Exemplos de Consumo
   a) https://www.receitaws.com.br/v1/cnpj/10480616000160
   b) https://api.conceitho.com/api/protheus/
+2) Json - Padrão de objetos REST - https://github.com/typicode/json-server
 3) OpenApi - Padrão para documentação de metodos Rest (https://swagger.io/specification/)
    a) Nfe-IO - Padrão de Integração de Notas de Serviço - https://nfe.io/docs/desenvolvedores/rest-api/nota-fiscal-de-servico-v1
    b) Plataforma de Recorrencia - https://vindi.github.io/api-docs/dist/
