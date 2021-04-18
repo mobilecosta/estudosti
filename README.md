@@ -20,8 +20,17 @@ Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
 2) https://www.opencartbrasil.com.br/ - Ferramenta para criação de lojas virtual com código aberto em PHP, permitindo a integração com Rest de forma Gratuito
 
+Criação de Sites
+1) https://wordpress.com - Plataforma de mercado para criação de sites que detem aproximadamente 35% do mercado da Internet
+2) https://pt.wix.com/ - Plataforma de mercado para criação de Sites
+
+Projetos Individuais
+1) Consulta Personalizada - Ferramenta para criação de consultas e formularios para o usuário sem a necessidade de compilação de código no Protheus
+2) InstSXDB - Ferramenta para aplicação de dicionários no ambiente Protheus 17
+
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
 
 Objetivos:
 1) Criação de projetos atraves do GitHub e criação de código em Comum
+2) Colaboração do conhecimento entre os colaborares
