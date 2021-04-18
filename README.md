@@ -24,7 +24,7 @@ FrameWorks
 1) https://angular.io/ - Linguagem de programação criada pela Google baseada em TypeScript 
 2) https://po-ui.io/ - Portinari - Biblioteca de Componentes baseada no Angular
 3) https://www.javascript.com/ - FrameWork para execução de tarefas no navegador
-4) ADVPL - Linguagem de programação proprietaria da Totvs.com, realiza toda a execução dos códigos na Estação e Servidor
+4) ADVPL - Linguagem de programação proprietaria da Totvs.com, realiza toda a execução dos códigos na Estação e Servidor (https://siga0984.wordpress.com/2014/11/21/o-que-e-advpl/)
 5) PostgRest - Protocolo de comunicação Rest integrado ao PostgreSQL - https://postgrest.org/en/stable/
 
 Conceitos
