@@ -9,12 +9,16 @@ Ferramentas
 3) GitHub DeskTop - https://desktop.github.com/
 4) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
 5) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
+6) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest
 
 FrameWorks
 1) https://angular.io/ - Linguagem de programação criada pela Google baseada em TypeScript 
 2) https://po-ui.io/ - Portinari - Biblioteca de Componentes baseada no Angular
 3) https://www.javascript.com/ - FrameWork para execução de tarefas no navegador
 4) ADVPL - Linguagem de programação proprietaria da Totvs.com, realiza toda a execução dos códigos na Estação e Servidor
+
+Conceitos
+1) Rest - Protocolo de comunicação - https://becode.com.br/o-que-e-api-rest-e-restful/
 
 Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
@@ -25,8 +29,10 @@ Criação de Sites
 2) https://pt.wix.com/ - Plataforma de mercado para criação de Sites
 
 Projetos Individuais
-1) Consulta Personalizada - Ferramenta para criação de consultas e formularios para o usuário sem a necessidade de compilação de código no Protheus
-2) InstSXDB - Ferramenta para aplicação de dicionários no ambiente Protheus 17
+1) Consulta Personalizada - Ferramenta para criação de consultas e formularios para o usuário sem a necessidade de compilação de código no Protheus (https://github.com/mobilecosta/consulta_personalizada)
+2) InstSXDB - Ferramenta para aplicação de dicionários no ambiente Protheus 17 (https://github.com/mobilecosta/SyncSxDB)
+3) Projeto de Exemplos com Código MVC para Protheus - https://github.com/mobilecosta/mvc
+4) Projeto de Exemplo das Funcionalidades Portinari integrada com Protheus - https://github.com/mobilecosta/protheus
 
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
