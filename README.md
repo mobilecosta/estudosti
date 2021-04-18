@@ -14,6 +14,7 @@ Ferramentas
 Bancos de Dados
 1) https://www.postgresql.org/ - Banco de Dados Relacional
 2) https://www.microsoft.com/pt-br/sql-server/sql-server-downloads - Banco de Dados MicroSoft
+3) Ferramenta de Conexão MultiBanco desenvolvida em Java - https://dbeaver.io/download/
 
 ERPs
 1) Protheus - https://tdn.totvs.com.br/display/public/PROT/TOTVS+Linha+Protheus
@@ -31,7 +32,9 @@ Conceitos
   Exemplos de Consumo
   a) https://www.receitaws.com.br/v1/cnpj/10480616000160
   b) https://api.conceitho.com/api/protheus/
-3) OpenApi - Padrão para documentação de metodos Rest
+3) OpenApi - Padrão para documentação de metodos Rest (https://swagger.io/specification/)
+   a) Nfe-IO - Padrão de Integração de Notas de Serviço - https://nfe.io/docs/desenvolvedores/rest-api/nota-fiscal-de-servico-v1
+   b) Plataforma de Recorrencia - https://vindi.github.io/api-docs/dist/
 
 Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
@@ -40,6 +43,7 @@ Lojas Virtual
 Criação de Sites
 1) https://wordpress.com - Plataforma de mercado para criação de sites que detem aproximadamente 35% do mercado da Internet
 2) https://pt.wix.com/ - Plataforma de mercado para criação de Sites
+3) Sites Criados - https://conceitho.com/desenvolvimento-web/
 
 Projetos Individuais
 1) Consulta Personalizada - Ferramenta para criação de consultas e formularios para o usuário sem a necessidade de compilação de código no Protheus (https://github.com/mobilecosta/consulta_personalizada)
