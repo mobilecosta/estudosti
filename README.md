@@ -28,6 +28,7 @@ FrameWorks
 5) PostgRest - Protocolo de comunicação Rest integrado ao PostgreSQL - https://postgrest.org/en/stable/
 6) https://ionicframework.com/ - Desenvolvimento Mobile Hibrido
 7) https://developer.android.com/ - Desenvolvimento Android
+8) https://knockoutjs.com - FrameWork de Desenvolvimento
 
 Conceitos
 1) Rest - Protocolo de comunicação - https://pt.wikipedia.org/wiki/REST e https://becode.com.br/o-que-e-api-rest-e-restful/
