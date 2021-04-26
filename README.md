@@ -49,6 +49,11 @@ Criação de Sites
 2) https://pt.wix.com/ - Plataforma de mercado para criação de Sites
 3) Sites Criados - https://conceitho.com/desenvolvimento-web/
 
+Integração Sistemas
+1) QuickBooks - https://developer.intuit.com/app/developer/qbo/docs/develop
+2) Conta Azul - https://developers.contaazul.com/
+3) Dominio - https://www.dominiosistemas.com.br/solucoes/integracao-com-erp/erps-integrados/
+
 Projetos Individuais
 1) Consulta Personalizada - Ferramenta para criação de consultas e formularios para o usuário sem a necessidade de compilação de código no Protheus (https://github.com/mobilecosta/consulta_personalizada)
 2) InstSXDB - Ferramenta para aplicação de dicionários no ambiente Protheus 17 (https://github.com/mobilecosta/SyncSxDB)
