@@ -60,6 +60,9 @@ Projetos Individuais
 3) Projeto de Exemplos com Código MVC para Protheus - https://github.com/mobilecosta/mvc
 4) Projeto de Exemplo das Funcionalidades Portinari integrada com Protheus - https://github.com/mobilecosta/protheus
 
+Docker
+1) https://docs.docker.com/docker-for-windows/install/
+
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
 
