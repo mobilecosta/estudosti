@@ -42,7 +42,12 @@ Conceitos
 
 Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
-2) https://www.opencartbrasil.com.br/ - Ferramenta para criação de lojas virtual com código aberto em PHP, permitindo a integração com Rest de forma Gratuito
+  https://bellacris.lojaintegrada.com.br/
+  https://levarasemprebela.lojaintegrada.com.br/
+  https://infor-loja.lojaintegrada.com.br/
+  https://mobilecosta.lojaintegrada.com.br/
+  https://psoquetti.lojaintegrada.com.br/
+3) https://www.opencartbrasil.com.br/ - Ferramenta para criação de lojas virtual com código aberto em PHP, permitindo a integração com Rest de forma Gratuito
 
 Criação de Sites
 1) https://wordpress.com - Plataforma de mercado para criação de sites que detem aproximadamente 35% do mercado da Internet
