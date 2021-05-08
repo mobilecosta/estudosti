@@ -29,6 +29,9 @@ FrameWorks
 6) https://ionicframework.com/ - Desenvolvimento Mobile Hibrido
 7) https://developer.android.com/ - Desenvolvimento Android
 8) https://knockoutjs.com - FrameWork de Desenvolvimento
+11) React - Videos no YouTube
+https://www.youtube.com/watch?v=UtRqg4xepM0 - 02 - Front-end do app com React Native
+https://www.youtube.com/watch?v=AhqG-eYfZAE
 
 Conceitos
 1) Rest - Protocolo de comunicação - https://pt.wikipedia.org/wiki/REST e https://becode.com.br/o-que-e-api-rest-e-restful/
