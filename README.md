@@ -33,6 +33,9 @@ FrameWorks
 https://www.youtube.com/watch?v=UtRqg4xepM0 - 02 - Front-end do app com React Native
 https://www.youtube.com/watch?v=AhqG-eYfZAE
 
+Empreedorismo
+1) https://www.youtube.com/watch?v=8AoHtNWtT-c - Construindo um marketplace DO ZERO
+
 Conceitos
 1) Rest - Protocolo de comunicação - https://pt.wikipedia.org/wiki/REST e https://becode.com.br/o-que-e-api-rest-e-restful/
   Exemplos de Consumo
