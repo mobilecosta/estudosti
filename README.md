@@ -19,6 +19,7 @@ Bancos de Dados
 ERPs
 1) Protheus - https://tdn.totvs.com.br/display/public/PROT/TOTVS+Linha+Protheus
 2) Fluent - https://conceitho.com/fluent-erp/
+3) MarketUP - https://marketup.com/
 
 FrameWorks
 1) https://angular.io/ - Linguagem de programação criada pela Google baseada em TypeScript 
