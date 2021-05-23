@@ -63,6 +63,8 @@ Criação de Sites
 1) https://wordpress.com - Plataforma de mercado para criação de sites que detem aproximadamente 35% do mercado da Internet
 2) https://pt.wix.com/ - Plataforma de mercado para criação de Sites
 3) Sites Criados - https://conceitho.com/desenvolvimento-web/
+   https://ibjardimverao.wordpress.com/
+   https://igrejabatistajv.wordpress.com/
 
 Integração Sistemas
 1) QuickBooks - https://developer.intuit.com/app/developer/qbo/docs/develop
