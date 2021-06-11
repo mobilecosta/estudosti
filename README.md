@@ -80,6 +80,9 @@ Projetos Individuais
 Docker
 1) https://docs.docker.com/docker-for-windows/install/
 
+Apps
+https://ionicframework.com/docs/developing/android
+
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
 
