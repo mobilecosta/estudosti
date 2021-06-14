@@ -33,8 +33,11 @@ FrameWorks
 8) https://knockoutjs.com - FrameWork de Desenvolvimento
 9) React - Videos no YouTube
 https://www.youtube.com/watch?v=UtRqg4xepM0 - 02 - Front-end do app com React Native
+
 https://www.youtube.com/watch?v=AhqG-eYfZAE
+
 Git - https://github.com/fabioapostolo/nodejs_react_materialui_mongo
+
 A) https://materializecss.com/
 
 Empreedorismo
