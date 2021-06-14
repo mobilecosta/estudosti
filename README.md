@@ -52,6 +52,9 @@ Conceitos
 3) OpenApi - Padrão para documentação de metodos Rest (https://swagger.io/specification/)
    a) Nfe-IO - Padrão de Integração de Notas de Serviço - https://nfe.io/docs/desenvolvedores/rest-api/nota-fiscal-de-servico-v1
    b) Plataforma de Recorrencia - https://vindi.github.io/api-docs/dist/
+   
+Publicação de Aplicações
+1) https://www.heroku.com/
 
 Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
