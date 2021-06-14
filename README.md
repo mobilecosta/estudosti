@@ -31,11 +31,11 @@ FrameWorks
 6) https://ionicframework.com/ - Desenvolvimento Mobile Hibrido
 7) https://developer.android.com/ - Desenvolvimento Android
 8) https://knockoutjs.com - FrameWork de Desenvolvimento
-11) React - Videos no YouTube
+9) React - Videos no YouTube
 https://www.youtube.com/watch?v=UtRqg4xepM0 - 02 - Front-end do app com React Native
 https://www.youtube.com/watch?v=AhqG-eYfZAE
-
 Git - https://github.com/fabioapostolo/nodejs_react_materialui_mongo
+A) https://materializecss.com/
 
 Empreedorismo
 1) https://www.youtube.com/watch?v=8AoHtNWtT-c - Construindo um marketplace DO ZERO
