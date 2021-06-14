@@ -80,6 +80,10 @@ Projetos Individuais
 Docker
 1) https://docs.docker.com/docker-for-windows/install/
 
+Extensões PostgreSQL
+1) https://imasters.com.br/back-end/construindo-um-cliente-http-em-postgresql-com-plpython
+2) https://github.com/CartoDB/labs-postgresql/blob/master/workshop/plpython.md
+
 Apps
 https://ionicframework.com/docs/developing/android
 
@@ -92,3 +96,4 @@ Objetivos:
 
 Gits Interessantes
 https://github.com/renatodaltiba
+Delivery - https://github.com/appjusto
