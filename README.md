@@ -101,7 +101,8 @@ Objetivos:
 2) Colaboração e troca de conhecimento entre integrantes do grupo
 
 Ferramentas
-1) https://www.mailinator.com/
+1) https://www.mailinator.com/ - Caixa de email para testes
+2) https://appdemo.docusign.com - Assinatura Digital
 
 Gits Interessantes
 https://github.com/renatodaltiba
