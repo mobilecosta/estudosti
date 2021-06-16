@@ -105,6 +105,7 @@ Ferramentas
 2) https://appdemo.docusign.com - Assinatura Digital
 
 Gits Interessantes
-https://github.com/renatodaltiba
-Delivery - https://github.com/appjusto
-https://github.com/luanpedro0014/Angular
+
+a) https://github.com/renatodaltiba
+b) Delivery - https://github.com/appjusto
+c) https://github.com/luanpedro0014/Angular
