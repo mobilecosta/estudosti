@@ -106,6 +106,6 @@ Ferramentas
 
 Gits Interessantes
 
-a) https://github.com/renatodaltiba
-b) Delivery - https://github.com/appjusto
-c) https://github.com/luanpedro0014/Angular
+1) https://github.com/renatodaltiba
+2) Delivery - https://github.com/appjusto
+3) https://github.com/luanpedro0014/Angular
