@@ -100,6 +100,9 @@ Objetivos:
 1) Criação de projetos atraves do GitHub e criação de código em Comum
 2) Colaboração e troca de conhecimento entre integrantes do grupo
 
+Ferramentas
+1) https://www.mailinator.com/
+
 Gits Interessantes
 https://github.com/renatodaltiba
 Delivery - https://github.com/appjusto
