@@ -1,7 +1,7 @@
 Pré-Requisitos
 
 Grupo Whats:
-https://github.com/mobilecosta/estudosti
+https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
 
 1) Crição de Conta no GitHub (https://github.com/)
 
