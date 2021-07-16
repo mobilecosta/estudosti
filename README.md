@@ -98,6 +98,9 @@ Extensões PostgreSQL
 Apps
 https://ionicframework.com/docs/developing/android
 
+Ferramentas
+1) https://sqlbackupandftp.com - Backup de Bases
+
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
 
