@@ -117,3 +117,7 @@ Gits Interessantes
 1) https://github.com/renatodaltiba
 2) Delivery - https://github.com/appjusto
 3) https://github.com/luanpedro0014/Angular
+
+Agil TOTVS
+1) Apresentação - https://drive.google.com/file/d/1hV80WdiS1j3VIkD9kB-xLJwPZPuU1JYr/view
+2) TDN - https://tdn.totvs.com.br/pages/viewpage.action?pageId=364924778
