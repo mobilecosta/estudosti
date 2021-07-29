@@ -121,3 +121,10 @@ Gits Interessantes
 Agil TOTVS
 1) Apresentação - https://drive.google.com/file/d/1hV80WdiS1j3VIkD9kB-xLJwPZPuU1JYr/view
 2) TDN - https://tdn.totvs.com.br/pages/viewpage.action?pageId=364924778
+
+PYTHON
+a) Projeto - Trello
+https://trello.com/invite/b/fioH3GS1/ea448af5853a381096eed831098703d3/devs (Convite)
+https://trello.com/b/fioH3GS1/devs (Link)
+
+b) Git - https://github.com/anliben/codestore
