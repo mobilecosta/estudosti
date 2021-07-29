@@ -123,9 +123,10 @@ Agil TOTVS
 2) TDN - https://tdn.totvs.com.br/pages/viewpage.action?pageId=364924778
 
 PYTHON
+a) https://t.me/joinchat/NHe8BxhUnvI4NTBh - Convite do grupo no telegram
 
-a) Projeto - Trello
+b) Projeto - Trello
 https://trello.com/invite/b/fioH3GS1/ea448af5853a381096eed831098703d3/devs (Convite)
 https://trello.com/b/fioH3GS1/devs (Link)
 
-b) Git - https://github.com/anliben/codestore
+c) Git - https://github.com/anliben/codestore
