@@ -137,6 +137,9 @@ https://brasilapi.com.br/
 
 Protheus:
 1) https://github.com/kanemaki/Advpl-Build-Bot/blob/main/quick-start-ptbr.md - Download de Fontes do Git e Compilação usando Python
+
 2) Uso do TLPP - https://tdninterno.totvs.com/pages/viewpage.action?pageId=334340072
-   a) https://github.com/totvs/tlpp-sample-rest
-   b) https://github.com/totvs/tlpp-core-resources
+
+   2.1) https://github.com/totvs/tlpp-sample-rest
+   
+   2.2) https://github.com/totvs/tlpp-core-resources
