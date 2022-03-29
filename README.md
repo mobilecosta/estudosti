@@ -143,3 +143,8 @@ Protheus:
    2.1) https://github.com/totvs/tlpp-sample-rest
    
    2.2) https://github.com/totvs/tlpp-core-resources
+
+3) Automação para criação de robo
+https://github.com/puppeteer/puppeteer
+https://www.browserless.io/
+https://github.com/browserless/chrome
