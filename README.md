@@ -150,3 +150,6 @@ https://github.com/puppeteer/puppeteer
 https://www.browserless.io/
 
 https://github.com/browserless/chrome
+
+4) Publicação APIs
+https://dashboard.ngrok.com
