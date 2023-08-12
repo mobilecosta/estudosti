@@ -160,11 +160,28 @@ https://github.com/danielAlbuquerque/app-protheus-inv-estoque
 
 https://bizify.com.br/
 
-
 ##Protheus
 
 https://docker-protheus.engpro.totvs.com.br/
 
+Empresas TESTE
+9901TESTEMATRIZ
+
+9902TESTEFILIAL02
+
+9903TESTEFILIAL03
+
+ZZ01TESTEPYME
+
+ZZ02TESTEFILIAL02
+
+ZZ03TESTEFILIAL03
+
+ZZ01TESTEEXPRESS
+
+ZZ02TESTEFILIAL02
+
+ZZ03TESTEFILIAL03
 
 DevOPS:
 
