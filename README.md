@@ -3,7 +3,7 @@ Pré-Requisitos
 Grupo Whats:
 https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
 
-1) Crição de Conta no GitHub (https://github.com/)
+1) Criação de Conta no GitHub (https://github.com/)
 
 Ferramentas
 
@@ -186,3 +186,16 @@ ZZ03TESTEFILIAL03
 DevOPS:
 
 https://aztfmod.github.io/documentation/
+
+PYTHON
+
+https://www.youtube.com/watch?v=s1vBPXbHTHk
+
+Jose de Assis - 🔗 Sites: https://html5css3.com.br/
+
+https://joseassis.com.br/
+
+https://roboticapratica.com.br
+
+📁 GitHub (material de apoio dos tutoriais e projetos do canal):
+​https://github.com/professorjosedeassis - https://github.com/roboticapratica 
