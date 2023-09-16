@@ -27,9 +27,10 @@ Ferramentas
 8) Python - https://www.python.org/downloads/release 
 
 Projetos
-https://github.com/wallaceCoelho/Encurtador-Url/
 
-https://github.com/wallaceCoelho/Docker-Fullstack
+a) https://github.com/wallaceCoelho/Encurtador-Url/
+
+b) https://github.com/wallaceCoelho/Docker-Fullstack
 
 Bancos de Dados
 1) https://www.postgresql.org/ - Banco de Dados Relacional
