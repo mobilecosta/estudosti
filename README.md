@@ -13,7 +13,12 @@ Ferramentas
 4) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
 5) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
 6) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest (https://www.postman.com/)
-7) Python - https://www.python.org/downloads/release 
+  a) https://docs.tenex.com.br/api/v2/#introducao
+  b) https://dev.nuvemfiscal.com.br/docs/
+  c) https://api.totvs.com.br/
+  d) https://brasilapi.com.br
+  e) https://www.receitaws.com.br/  
+8) Python - https://www.python.org/downloads/release 
 
 Bancos de Dados
 1) https://www.postgresql.org/ - Banco de Dados Relacional
