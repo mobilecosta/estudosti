@@ -220,3 +220,7 @@ https://roboticapratica.com.br
 
 📁 GitHub (material de apoio dos tutoriais e projetos do canal):
 ​https://github.com/professorjosedeassis - https://github.com/roboticapratica 
+
+PIPELINE
+
+https://renatogroffe.medium.com/apache-kafka-automatizando-testes-de-carga-com-kafkacat-kcat-azure-pipelines-e-bash-a5792b82d1e4
