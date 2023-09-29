@@ -5,6 +5,11 @@ https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
 
 1) Criação de Conta no GitHub (https://github.com/)
 
+DevOPS:
+
+https://aztfmod.github.io/documentation/
+https://github.com/charoleizer/delphi-gitlab-ci-sample
+
 Ferramentas
 
 1) GIT - https://git-scm.com/downloads
@@ -212,10 +217,6 @@ ZZ01TESTEEXPRESS
 ZZ02TESTEFILIAL02
 
 ZZ03TESTEFILIAL03
-
-DevOPS:
-
-https://aztfmod.github.io/documentation/
 
 PYTHON
 
