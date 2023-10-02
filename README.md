@@ -29,7 +29,8 @@ Ferramentas
   
   e) https://www.receitaws.com.br/  
   
-8) Python - https://www.python.org/downloads/release 
+8) Python - https://www.python.org/downloads/release
+9) GO - https://devkico.itexto.com.br/?p=4134
 
 Projetos
 
