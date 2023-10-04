@@ -12,6 +12,9 @@ https://github.com/charoleizer/delphi-gitlab-ci-sample
 
 Ferramentas
 
+DELPHI
+https://github.com/OpenSourceCommunityBrasil/PascalLibs/
+
 1) GIT - https://git-scm.com/downloads
 2) TORTOISE SVN - https://tortoisesvn.net/downloads.html
 3) GitHub DeskTop - https://desktop.github.com/
