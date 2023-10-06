@@ -12,6 +12,10 @@ https://github.com/charoleizer/delphi-gitlab-ci-sample
 
 Ferramentas
 
+GO
+
+1) https://github.com/AllenDang/giu
+
 DELPHI
 https://github.com/OpenSourceCommunityBrasil/PascalLibs/
 
