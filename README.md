@@ -35,6 +35,10 @@ https://github.com/OpenSourceCommunityBrasil/PascalLibs/
 8) Python - https://www.python.org/downloads/release
 9) GO - https://devkico.itexto.com.br/?p=4134
 
+Parcerias
+Aprovador
+https://www.youtube.com/watch?v=ouFNwtqrbac
+
 Projetos
 
 a) https://github.com/wallaceCoelho/Encurtador-Url/
