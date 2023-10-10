@@ -11,21 +11,25 @@ https://aztfmod.github.io/documentation/
 https://github.com/charoleizer/delphi-gitlab-ci-sample
 
 Ferramentas
+1) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
+2) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
+3) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest (https://www.postman.com/)
 
 GO
-
 1) https://github.com/AllenDang/giu
+
+Controle de Versão
+1) GIT - https://git-scm.com/downloads
+2) TORTOISE SVN - https://tortoisesvn.net/downloads.html
+3) GitHub DeskTop - https://desktop.github.com/
 
 DELPHI
 https://github.com/OpenSourceCommunityBrasil/PascalLibs/
 
-1) GIT - https://git-scm.com/downloads
-2) TORTOISE SVN - https://tortoisesvn.net/downloads.html
-3) GitHub DeskTop - https://desktop.github.com/
-4) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
-5) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
-6) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest (https://www.postman.com/)
-   
+GAMES
+https://www.crieseusjogos.com.br/
+
+APIs   
   a) https://docs.tenex.com.br/api/v2/#introducao
   
   b) https://dev.nuvemfiscal.com.br/docs/
