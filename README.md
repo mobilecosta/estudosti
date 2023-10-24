@@ -4,13 +4,19 @@ Grupo Whats:
 https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
 
 PDV
+
 https://app.gescomweb.com.br/
+
 Usuario:homologacao@gescomweb.com
+
 Senha:ERP2022
 
 https://pdv.gescomweb.com.br/
+
 C.N.P.J:12.038.409/0001-86
+
 Usuario:PDVWEB
+
 Senha:PDVWEB
 
 1) Criação de Conta no GitHub (https://github.com/)
