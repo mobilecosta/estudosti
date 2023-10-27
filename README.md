@@ -83,6 +83,7 @@ Bancos de Dados
 
 ERPs
 1) Protheus - https://tdn.totvs.com.br/display/public/PROT/TOTVS+Linha+Protheus
+   https://tdn.totvs.com/display/public/PROT/Utilizando+Protheus+em+Linux
 2) Fluent - https://conceitho.com/fluent-erp/
 3) MarketUP - https://marketup.com/
 4) Millennium - https://e-millennium.com.br/dev-api/
