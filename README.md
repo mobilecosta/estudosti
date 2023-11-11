@@ -29,6 +29,9 @@ DevOPS:
 https://aztfmod.github.io/documentation/
 https://github.com/charoleizer/delphi-gitlab-ci-sample
 
+WEB
+https://bootstrapstudio.io/
+
 Ferramentas
 1) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
 2) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
