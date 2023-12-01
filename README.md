@@ -33,24 +33,25 @@ Ferramentas
 2) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
 3) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest (https://www.postman.com/)
 
-GO
+## GOLANG
 1) https://github.com/AllenDang/giu
+2) GO - https://devkico.itexto.com.br/?p=4134
 
-FULL CYCLE
+## FULL CYCLE
 Docker - https://www.youtube.com/watch?v=3l_GENX3WWI
 
-Controle de Versão
+## Controle de Versão
 1) GIT - https://git-scm.com/downloads
 2) TORTOISE SVN - https://tortoisesvn.net/downloads.html
 3) GitHub DeskTop - https://desktop.github.com/
 
-DELPHI
+## DELPHI
 https://github.com/OpenSourceCommunityBrasil/PascalLibs/
 
-GAMES
+## GAMES
 https://www.crieseusjogos.com.br/
 
-APIs   
+## APIs   
   a) https://docs.tenex.com.br/api/v2/#introducao
   
   b) https://dev.nuvemfiscal.com.br/docs/
@@ -62,14 +63,12 @@ APIs
   e) https://www.receitaws.com.br/  
   
 8) Python - https://www.python.org/downloads/release
-9) GO - https://devkico.itexto.com.br/?p=4134
 
 Parcerias
 Aprovador
 https://www.youtube.com/watch?v=ouFNwtqrbac
 
 Projetos
-
 a) https://github.com/wallaceCoelho/Encurtador-Url/
 
 b) https://github.com/wallaceCoelho/Docker-Fullstack
@@ -80,14 +79,12 @@ Bancos de Dados
 3) Ferramenta de Conexão MultiBanco desenvolvida em Java - https://dbeaver.io/download/
 4) https://tdn.totvs.com.br/display/public/PROT/Banco+de+dados+homologados
 
-ERPs
-1) Protheus - https://tdn.totvs.com.br/display/public/PROT/TOTVS+Linha+Protheus
-   https://tdn.totvs.com/display/public/PROT/Utilizando+Protheus+em+Linux
-2) Fluent - https://conceitho.com/fluent-erp/
-3) MarketUP - https://marketup.com/
-4) Millennium - https://e-millennium.com.br/dev-api/
+## ERPs
+1) Fluent - https://conceitho.com/fluent-erp/
+2) MarketUP - https://marketup.com/
+3) Millennium - https://e-millennium.com.br/dev-api/
 
-FrameWorks
+## FrameWorks
 1) https://angular.io/ - Linguagem de programação criada pela Google baseada em TypeScript 
 2) https://po-ui.io/ - Portinari - Biblioteca de Componentes baseada no Angular
 3) https://www.javascript.com/ - FrameWork para execução de tarefas no navegador
@@ -219,6 +216,9 @@ https://brasilapi.com.br/
    2.2) https://github.com/totvs/tlpp-core-resources
 
 https://tdn.totvs.com/pages/viewpage.action?pageId=744479921
+
+1) Protheus - https://tdn.totvs.com.br/display/public/PROT/TOTVS+Linha+Protheus
+   https://tdn.totvs.com/display/public/PROT/Utilizando+Protheus+em+Linux
 
 Projetos
 https://github.com/danielAlbuquerque/app-protheus-inv-estoque
