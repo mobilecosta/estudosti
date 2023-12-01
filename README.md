@@ -7,23 +7,7 @@ https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
    
 2) Colaboração e troca de conhecimento entre integrantes do grupo
 
-
-## PDV
-https://app.gescomweb.com.br/
-
-Usuario:homologacao@gescomweb.com
-
-Senha:ERP2022
-
-https://pdv.gescomweb.com.br/
-
-C.N.P.J:12.038.409/0001-86
-
-Usuario:PDVWEB
-
-Senha:PDVWEB
-
-1) Criação de Conta no GitHub (https://github.com/)
+3) Criação de Conta no GitHub (https://github.com/)
 
 ## DevOPS:
 https://aztfmod.github.io/documentation/
@@ -31,6 +15,7 @@ https://aztfmod.github.io/documentation/
 https://github.com/charoleizer/delphi-gitlab-ci-sample
 
 PIPELINE
+
 https://renatogroffe.medium.com/apache-kafka-automatizando-testes-de-carga-com-kafkacat-kcat-azure-pipelines-e-bash-a5792b82d1e4
 
 ## WEB
@@ -264,3 +249,18 @@ https://grizzly-amaranthus-f6a.notion.site/AULA-2-PSW-7-0-76658841a4b14e6aa66479
 https://grizzly-amaranthus-f6a.notion.site/PSW-e33ff4be6f624a87bc1e8574ba435e8d
 
 https://youtube.com/@pythonando?si=SIlQ4vwsZ1PMZGfi
+
+## PDV
+https://app.gescomweb.com.br/
+
+Usuario:homologacao@gescomweb.com
+
+Senha:ERP2022
+
+https://pdv.gescomweb.com.br/
+
+C.N.P.J:12.038.409/0001-86
+
+Usuario:PDVWEB
+
+Senha:PDVWEB
