@@ -75,8 +75,16 @@ a) https://github.com/wallaceCoelho/Encurtador-Url/
 
 b) https://github.com/wallaceCoelho/Docker-Fullstack
 
-Bancos de Dados
+## Bancos de Dados
 1) https://www.postgresql.org/ - Banco de Dados Relacional
+
+Extensões PostgreSQL
+A) https://imasters.com.br/back-end/construindo-um-cliente-http-em-postgresql-com-plpython
+   
+B) https://github.com/CartoDB/labs-postgresql/blob/master/workshop/plpython.md
+   
+C) Neon - https://console.neon.tech/ - https://api-docs.neon.tech/
+
 2) https://www.microsoft.com/pt-br/sql-server/sql-server-downloads - Banco de Dados MicroSoft
 3) Ferramenta de Conexão MultiBanco desenvolvida em Java - https://dbeaver.io/download/
 4) https://tdn.totvs.com.br/display/public/PROT/Banco+de+dados+homologados
@@ -155,11 +163,6 @@ Docker
 2) Docker PostgreSQL - https://hub.docker.com/r/guilhermebigois/postgres4protheus
 3) tps://docker-protheus.engpro.totvs.com.br/
 
-Extensões PostgreSQL
-1) https://imasters.com.br/back-end/construindo-um-cliente-http-em-postgresql-com-plpython
-2) https://github.com/CartoDB/labs-postgresql/blob/master/workshop/plpython.md
-3) Neon - https://console.neon.tech/ - https://api-docs.neon.tech/
-
 Apps
 https://ionicframework.com/docs/developing/android
 
@@ -216,24 +219,8 @@ https://github.com/danielAlbuquerque/app-protheus-inv-estoque
 
 https://docker-protheus.engpro.totvs.com.br/
 
-Empresas TESTE
-9901TESTEMATRIZ
-
-9902TESTEFILIAL02
-
-9903TESTEFILIAL03
-
-ZZ01TESTEPYME
-
-ZZ02TESTEFILIAL02
-
-ZZ03TESTEFILIAL03
-
-ZZ01TESTEEXPRESS
-
-ZZ02TESTEFILIAL02
-
-ZZ03TESTEFILIAL03
+## Empresas TESTE PROTHEUS
+9901TESTEMATRIZ / 9902TESTEFILIAL02 / 9903TESTEFILIAL03 / ZZ01TESTEPYME / ZZ02TESTEFILIAL02 / ZZ03TESTEFILIAL03 / ZZ01TESTEEXPRESS / ZZ02TESTEFILIAL02 / ZZ03TESTEFILIAL03
 
 ## Automações para criação de robo
 https://github.com/puppeteer/puppeteer
@@ -257,11 +244,19 @@ https://roboticapratica.com.br
 ​https://github.com/professorjosedeassis - https://github.com/roboticapratica 
 
 a) https://t.me/joinchat/NHe8BxhUnvI4NTBh - Convite do grupo no telegram
+
 https://media.discordapp.net/attachments/814238545887625295/1139471372616224879/lambda.png
+
 https://www.django-rest-framework.org/#example
+
 https://plataforma.pythonando.com.br/pagamentos/lp_livro/
+
 https://github.com/gm-costa/finance
+
 https://plataforma.pythonando.com.br/pagamentos/lp_assinatura/
+
 https://grizzly-amaranthus-f6a.notion.site/AULA-2-PSW-7-0-76658841a4b14e6aa66479916927bb37
+
 https://grizzly-amaranthus-f6a.notion.site/PSW-e33ff4be6f624a87bc1e8574ba435e8d
+
 https://youtube.com/@pythonando?si=SIlQ4vwsZ1PMZGfi
