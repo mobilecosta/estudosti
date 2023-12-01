@@ -3,7 +3,6 @@ Grupo Whats:
 https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
 
 ## PDV
-
 https://app.gescomweb.com.br/
 
 Usuario:homologacao@gescomweb.com
@@ -21,9 +20,10 @@ Senha:PDVWEB
 1) Criação de Conta no GitHub (https://github.com/)
 
 ## DevOPS:
-
 https://aztfmod.github.io/documentation/
 https://github.com/charoleizer/delphi-gitlab-ci-sample
+PIPELINE
+https://renatogroffe.medium.com/apache-kafka-automatizando-testes-de-carga-com-kafkacat-kcat-azure-pipelines-e-bash-a5792b82d1e4
 
 ## WEB
 https://bootstrapstudio.io/
@@ -61,9 +61,11 @@ https://www.crieseusjogos.com.br/
   d) https://brasilapi.com.br
   
   e) https://www.receitaws.com.br/  
-  
-8) Python - https://www.python.org/downloads/release
 
+https://dashboard.ngrok.com
+
+https://bizify.com.br/
+  
 Parcerias
 Aprovador
 https://www.youtube.com/watch?v=ouFNwtqrbac
@@ -185,17 +187,6 @@ Agil TOTVS
 1) Apresentação - https://drive.google.com/file/d/1hV80WdiS1j3VIkD9kB-xLJwPZPuU1JYr/view
 2) TDN - https://tdn.totvs.com.br/pages/viewpage.action?pageId=364924778
 
-PYTHON
-a) https://t.me/joinchat/NHe8BxhUnvI4NTBh - Convite do grupo no telegram
-https://media.discordapp.net/attachments/814238545887625295/1139471372616224879/lambda.png
-https://www.django-rest-framework.org/#example
-https://plataforma.pythonando.com.br/pagamentos/lp_livro/
-https://github.com/gm-costa/finance
-https://plataforma.pythonando.com.br/pagamentos/lp_assinatura/
-https://grizzly-amaranthus-f6a.notion.site/AULA-2-PSW-7-0-76658841a4b14e6aa66479916927bb37
-https://grizzly-amaranthus-f6a.notion.site/PSW-e33ff4be6f624a87bc1e8574ba435e8d
-https://youtube.com/@pythonando?si=SIlQ4vwsZ1PMZGfi
-
 b) Projeto - Trello
 https://trello.com/invite/b/fioH3GS1/ea448af5853a381096eed831098703d3/devs (Convite)
 https://trello.com/b/fioH3GS1/devs (Link)
@@ -251,13 +242,8 @@ https://www.browserless.io/
 
 https://github.com/browserless/chrome
 
-4) Publicação APIs
-
-https://dashboard.ngrok.com
-
-https://bizify.com.br/
-
-PYTHON
+## PYTHON
+Download - https://www.python.org/downloads/release
 
 https://www.youtube.com/watch?v=s1vBPXbHTHk
 
@@ -270,6 +256,12 @@ https://roboticapratica.com.br
 📁 GitHub (material de apoio dos tutoriais e projetos do canal):
 ​https://github.com/professorjosedeassis - https://github.com/roboticapratica 
 
-PIPELINE
-
-https://renatogroffe.medium.com/apache-kafka-automatizando-testes-de-carga-com-kafkacat-kcat-azure-pipelines-e-bash-a5792b82d1e4
+a) https://t.me/joinchat/NHe8BxhUnvI4NTBh - Convite do grupo no telegram
+https://media.discordapp.net/attachments/814238545887625295/1139471372616224879/lambda.png
+https://www.django-rest-framework.org/#example
+https://plataforma.pythonando.com.br/pagamentos/lp_livro/
+https://github.com/gm-costa/finance
+https://plataforma.pythonando.com.br/pagamentos/lp_assinatura/
+https://grizzly-amaranthus-f6a.notion.site/AULA-2-PSW-7-0-76658841a4b14e6aa66479916927bb37
+https://grizzly-amaranthus-f6a.notion.site/PSW-e33ff4be6f624a87bc1e8574ba435e8d
+https://youtube.com/@pythonando?si=SIlQ4vwsZ1PMZGfi
