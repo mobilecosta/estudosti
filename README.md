@@ -21,7 +21,9 @@ Senha:PDVWEB
 
 ## DevOPS:
 https://aztfmod.github.io/documentation/
+
 https://github.com/charoleizer/delphi-gitlab-ci-sample
+
 PIPELINE
 https://renatogroffe.medium.com/apache-kafka-automatizando-testes-de-carga-com-kafkacat-kcat-azure-pipelines-e-bash-a5792b82d1e4
 
@@ -86,8 +88,13 @@ B) https://github.com/CartoDB/labs-postgresql/blob/master/workshop/plpython.md
 C) Neon - https://console.neon.tech/ - https://api-docs.neon.tech/
 
 2) https://www.microsoft.com/pt-br/sql-server/sql-server-downloads - Banco de Dados MicroSoft
+   
 3) Ferramenta de Conexão MultiBanco desenvolvida em Java - https://dbeaver.io/download/
+   
 4) https://tdn.totvs.com.br/display/public/PROT/Banco+de+dados+homologados
+   
+5) https://sqlbackupandftp.com - Backup de Bases
+
 
 ## ERPs
 1) Fluent - https://conceitho.com/fluent-erp/
@@ -103,71 +110,69 @@ C) Neon - https://console.neon.tech/ - https://api-docs.neon.tech/
 6) https://ionicframework.com/ - Desenvolvimento Mobile Hibrido
 7) https://developer.android.com/ - Desenvolvimento Android
 8) https://knockoutjs.com - FrameWork de Desenvolvimento
-9) React - Videos no YouTube
-https://www.youtube.com/watch?v=UtRqg4xepM0 - 02 - Front-end do app com React Native
-
-https://www.youtube.com/watch?v=AhqG-eYfZAE
+9) React - Videos no YouTube -
+    a) https://www.youtube.com/watch?v=UtRqg4xepM0 - 02 - Front-end do app com React Native
+    b) https://www.youtube.com/watch?v=AhqG-eYfZAE
 
 Git - https://github.com/fabioapostolo/nodejs_react_materialui_mongo
 
 A) https://materializecss.com/
 
-Empreedorismo
+## Empreedorismo
 1) https://www.youtube.com/watch?v=8AoHtNWtT-c - Construindo um marketplace DO ZERO
 
-Conceitos
+## Conceitos
 1) Rest - Protocolo de comunicação - https://pt.wikipedia.org/wiki/REST e https://becode.com.br/o-que-e-api-rest-e-restful/
   Exemplos de Consumo
   a) https://www.receitaws.com.br/v1/cnpj/10480616000160
   b) https://api.conceitho.com/api/protheus/
+
 2) Json - Padrão de objetos REST - https://github.com/typicode/json-server
+   
 3) OpenApi - Padrão para documentação de metodos Rest (https://swagger.io/specification/)
    a) Nfe-IO - Padrão de Integração de Notas de Serviço - https://nfe.io/docs/desenvolvedores/rest-api/nota-fiscal-de-servico-v1
    b) Plataforma de Recorrencia - https://vindi.github.io/api-docs/dist/
    
-Publicação de Aplicações
+## Publicação de Aplicações
 1) https://www.heroku.com/
 
-Lojas Virtual
+## Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
   https://bellacris.lojaintegrada.com.br/
   https://levarasemprebela.lojaintegrada.com.br/
   https://infor-loja.lojaintegrada.com.br/
   https://mobilecosta.lojaintegrada.com.br/
   https://psoquetti.lojaintegrada.com.br/
-3) https://www.opencartbrasil.com.br/ - Ferramenta para criação de lojas virtual com código aberto em PHP, permitindo a integração com Rest de forma Gratuito
+2) https://www.opencartbrasil.com.br/ - Ferramenta para criação de lojas virtual com código aberto em PHP, permitindo a integração com Rest de forma Gratuito
 
-ECOMMERCE
+## ECOMMERCE
 https://chatpion.com/
 
-Criação de Sites
+## Criação de Sites
 1) https://wordpress.com - Plataforma de mercado para criação de sites que detem aproximadamente 35% do mercado da Internet
 2) https://pt.wix.com/ - Plataforma de mercado para criação de Sites
 3) Sites Criados - https://conceitho.com/desenvolvimento-web
    a) https://ibjardimverao.wordpress.com/
    b) https://igrejabatistajv.wordpress.com/
 
-Integração Sistemas
+## Integração Sistemas
 1) QuickBooks - https://developer.intuit.com/app/developer/qbo/docs/develop
 2) Conta Azul - https://developers.contaazul.com/
 3) Dominio - https://www.dominiosistemas.com.br/solucoes/integracao-com-erp/erps-integrados/
 
-Projetos Individuais
+## Projetos Individuais
 1) Consulta Personalizada - Ferramenta para criação de consultas e formularios para o usuário sem a necessidade de compilação de código no Protheus (https://github.com/mobilecosta/consulta_personalizada)
 2) InstSXDB - Ferramenta para aplicação de dicionários no ambiente Protheus 17 (https://github.com/mobilecosta/SyncSxDB)
 3) Projeto de Exemplos com Código MVC para Protheus - https://github.com/mobilecosta/mvc
 4) Projeto de Exemplo das Funcionalidades Portinari integrada com Protheus - https://github.com/mobilecosta/protheus
 
-Docker
+## Docker
 1) https://docs.docker.com/docker-for-windows/install/
 2) Docker PostgreSQL - https://hub.docker.com/r/guilhermebigois/postgres4protheus
 3) tps://docker-protheus.engpro.totvs.com.br/
 
-Apps
+## Apps
 https://ionicframework.com/docs/developing/android
-
-Ferramentas
-1) https://sqlbackupandftp.com - Backup de Bases
 
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
