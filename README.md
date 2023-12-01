@@ -2,6 +2,12 @@
 Grupo Whats:
 https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
 
+## Objetivos:
+1) Criação de projetos atraves do GitHub e criação de código em Comum
+   
+2) Colaboração e troca de conhecimento entre integrantes do grupo
+
+
 ## PDV
 https://app.gescomweb.com.br/
 
@@ -30,7 +36,7 @@ https://renatogroffe.medium.com/apache-kafka-automatizando-testes-de-carga-com-k
 ## WEB
 https://bootstrapstudio.io/
 
-Ferramentas
+## Ferramentas
 1) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
 2) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
 3) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest (https://www.postman.com/)
@@ -177,10 +183,6 @@ https://ionicframework.com/docs/developing/android
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
 
-Objetivos:
-1) Criação de projetos atraves do GitHub e criação de código em Comum
-2) Colaboração e troca de conhecimento entre integrantes do grupo
-
 Ferramentas
 1) https://www.mailinator.com/ - Caixa de email para testes
 2) https://appdemo.docusign.com - Assinatura Digital
@@ -200,9 +202,6 @@ https://trello.com/invite/b/fioH3GS1/ea448af5853a381096eed831098703d3/devs (Conv
 https://trello.com/b/fioH3GS1/devs (Link)
 
 c) Git - https://github.com/anliben/codestore
-
-API - Integrações
-https://brasilapi.com.br/
 
 ## Protheus:
 0) https://tdn.totvs.com/display/public/PROT/Engenharia+Protheus
