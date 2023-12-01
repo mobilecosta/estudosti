@@ -1,9 +1,8 @@
-Pré-Requisitos
-
+## Pré-Requisitos
 Grupo Whats:
 https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
 
-PDV
+## PDV
 
 https://app.gescomweb.com.br/
 
@@ -21,15 +20,12 @@ Senha:PDVWEB
 
 1) Criação de Conta no GitHub (https://github.com/)
 
-Protheus
-https://tdn.totvs.com/pages/viewpage.action?pageId=744479921
-
-DevOPS:
+## DevOPS:
 
 https://aztfmod.github.io/documentation/
 https://github.com/charoleizer/delphi-gitlab-ci-sample
 
-WEB
+## WEB
 https://bootstrapstudio.io/
 
 Ferramentas
@@ -212,7 +208,8 @@ c) Git - https://github.com/anliben/codestore
 API - Integrações
 https://brasilapi.com.br/
 
-Protheus:
+## Protheus:
+0) https://tdn.totvs.com/display/public/PROT/Engenharia+Protheus
 1) https://github.com/kanemaki/Advpl-Build-Bot/blob/main/quick-start-ptbr.md - Download de Fontes do Git e Compilação usando Python
 
 2) Uso do TLPP - https://tdninterno.totvs.com/pages/viewpage.action?pageId=334340072
@@ -221,23 +218,10 @@ Protheus:
    
    2.2) https://github.com/totvs/tlpp-core-resources
 
-3) Automação para criação de robo
-https://github.com/puppeteer/puppeteer
-
-https://www.browserless.io/
-
-https://github.com/browserless/chrome
-
-4) Publicação APIs
-
-https://dashboard.ngrok.com
+https://tdn.totvs.com/pages/viewpage.action?pageId=744479921
 
 Projetos
 https://github.com/danielAlbuquerque/app-protheus-inv-estoque
-
-https://bizify.com.br/
-
-##Protheus
 
 https://docker-protheus.engpro.totvs.com.br/
 
@@ -259,6 +243,19 @@ ZZ01TESTEEXPRESS
 ZZ02TESTEFILIAL02
 
 ZZ03TESTEFILIAL03
+
+## Automações para criação de robo
+https://github.com/puppeteer/puppeteer
+
+https://www.browserless.io/
+
+https://github.com/browserless/chrome
+
+4) Publicação APIs
+
+https://dashboard.ngrok.com
+
+https://bizify.com.br/
 
 PYTHON
 
