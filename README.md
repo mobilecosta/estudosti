@@ -1,7 +1,3 @@
-## Pré-Requisitos
-Grupo Whats:
-https://chat.whatsapp.com/CEEfh3r5hFg5oyK5LNV6WH
-
 ## Objetivos:
 1) Criação de projetos atraves do GitHub e criação de código em Comum
    
