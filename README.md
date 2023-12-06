@@ -128,6 +128,8 @@ A) https://materializecss.com/
 ## Publicação de Aplicações
 1) https://www.heroku.com/
 
+2) https://vercel.com
+
 ## Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
   https://bellacris.lojaintegrada.com.br/
