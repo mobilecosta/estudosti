@@ -206,6 +206,8 @@ https://tdn.totvs.com/pages/viewpage.action?pageId=744479921
 1) Protheus - https://tdn.totvs.com.br/display/public/PROT/TOTVS+Linha+Protheus
    https://tdn.totvs.com/display/public/PROT/Utilizando+Protheus+em+Linux
 
+## CURSOS - https://www.dropbox.com/scl/fo/gy4z9u1afqgcg6iaenbfl/h?rlkey=07hvao9payo5cmt0cqs4gg6st&dl=0
+
 Projetos
 https://github.com/danielAlbuquerque/app-protheus-inv-estoque
 
