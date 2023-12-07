@@ -14,8 +14,9 @@ PIPELINE
 
 https://renatogroffe.medium.com/apache-kafka-automatizando-testes-de-carga-com-kafkacat-kcat-azure-pipelines-e-bash-a5792b82d1e4
 
-## WEB
+## HTML/CSS
 https://bootstrapstudio.io/
+https://www.linkedin.com/advice/0/how-can-html5-used-create-engaging-multimedia-2xuwc?trk=contr
 
 ## Ferramentas
 1) Visual Studio Code - https://code.visualstudio.com/ - Editor de Código Multiplataforma da MicroSofot
