@@ -225,6 +225,8 @@ https://www.browserless.io/
 https://github.com/browserless/chrome
 
 ## PYTHON
+APPS - https://flet.dev/
+
 Download - https://www.python.org/downloads/release
 
 https://www.youtube.com/watch?v=s1vBPXbHTHk
