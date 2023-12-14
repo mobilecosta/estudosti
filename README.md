@@ -121,6 +121,9 @@ A) https://materializecss.com/
 
 ## Empreedorismo
 1) https://www.youtube.com/watch?v=8AoHtNWtT-c - Construindo um marketplace DO ZERO
+ 
+## TESTES
+1) https://www.lambdatest.com/
 
 ## Conceitos
 1) Rest - Protocolo de comunicação - https://pt.wikipedia.org/wiki/REST e https://becode.com.br/o-que-e-api-rest-e-restful/
