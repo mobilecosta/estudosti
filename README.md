@@ -43,6 +43,10 @@ https://atendimento.tecnospeed.com.br/hc/pt-br/categories/6855680308887-PlugMess
 ## TOMADOS
 https://tecnospeed.com.br/plugdfe/nfse/#homologacao
 
+https://atendimento.tecnospeed.com.br/hc/pt-br/sections/360008462254-API-de-Notas-Tomadas
+
+https://atendimento.tecnospeed.com.br/hc/pt-br/articles/360051148233-Como-utilizar-a-API-de-Notas-Tomadas
+
 ## GOLANG
 1) https://github.com/AllenDang/giu
 2) GO - https://devkico.itexto.com.br/?p=4134
