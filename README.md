@@ -40,6 +40,9 @@ https://app.plugzapi.com.br/app/auth/new-account
 
 https://atendimento.tecnospeed.com.br/hc/pt-br/categories/6855680308887-PlugMessage
 
+## TOMADOS
+https://tecnospeed.com.br/plugdfe/nfse/#homologacao
+
 ## GOLANG
 1) https://github.com/AllenDang/giu
 2) GO - https://devkico.itexto.com.br/?p=4134
