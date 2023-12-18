@@ -35,6 +35,11 @@ b) Projeto - Trello
 https://trello.com/invite/b/fioH3GS1/ea448af5853a381096eed831098703d3/devs (Convite)
 https://trello.com/b/fioH3GS1/devs (Link)
 
+## WHATSAPP
+https://app.plugzapi.com.br/app/auth/new-account
+
+https://atendimento.tecnospeed.com.br/hc/pt-br/categories/6855680308887-PlugMessage
+
 ## GOLANG
 1) https://github.com/AllenDang/giu
 2) GO - https://devkico.itexto.com.br/?p=4134
@@ -99,6 +104,8 @@ C) Neon - https://console.neon.tech/ - https://api-docs.neon.tech/
 4) https://tdn.totvs.com.br/display/public/PROT/Banco+de+dados+homologados
    
 5) https://sqlbackupandftp.com - Backup de Bases
+
+6) https://sqlbolt.com/
 
 ## ERPs
 1) Fluent - https://conceitho.com/fluent-erp/
