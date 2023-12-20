@@ -51,6 +51,7 @@ https://atendimento.tecnospeed.com.br/hc/pt-br/articles/360051148233-Como-utiliz
 1) https://github.com/AllenDang/giu
 2) GO - https://devkico.itexto.com.br/?p=4134
 3) https://github.com/authelia/authelia
+4) https://github.com/enieber/mag
 
 ## FULL CYCLE
 Docker - https://www.youtube.com/watch?v=3l_GENX3WWI
