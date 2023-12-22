@@ -168,7 +168,10 @@ A) https://materializecss.com/
   https://infor-loja.lojaintegrada.com.br/
   https://mobilecosta.lojaintegrada.com.br/
   https://psoquetti.lojaintegrada.com.br/
+
 2) https://www.opencartbrasil.com.br/ - Ferramenta para criação de lojas virtual com código aberto em PHP, permitindo a integração com Rest de forma Gratuito
+   
+3) https://github.com/matondojoao/essence-shop-api
 
 ## ECOMMERCE
 https://chatpion.com/
