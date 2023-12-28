@@ -315,10 +315,16 @@ https://apps.docusign.com
 A) LORENCINI - https://api.lorencini.net.br/doc/
 
 https://project-lorencini.vercel.app/login/%2F
+
 Cpf: 06272793000184
+
 email: informatica@lorencini.com.br
+
 Senha: 123456
 
 B) Emissor de Nota Fiscal - https://nfse.conceitho.com/
 
 C) https://smartquery.conceitho.com/
+
+## PARCERIAS
+MOTIRO - https://www.youtube.com/playlist?list=PLPGChmSHw6fP9qqE3xsRecQ204qbEcN3_
