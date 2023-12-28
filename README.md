@@ -305,3 +305,15 @@ Senha:PDVWEB
 
 ## Assinaturas Digitais
 https://apps.docusign.com
+
+## Projetos PO-UI
+A) LORENCINI - https://api.lorencini.net.br/doc/
+
+https://project-lorencini.vercel.app/login/%2F
+Cpf: 06272793000184
+email: informatica@lorencini.com.br
+Senha: 123456
+
+B) Emissor de Nota Fiscal - https://nfse.conceitho.com/
+
+C) https://smartquery.conceitho.com/
