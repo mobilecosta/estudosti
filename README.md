@@ -326,5 +326,10 @@ B) Emissor de Nota Fiscal - https://nfse.conceitho.com/
 
 C) https://smartquery.conceitho.com/
 
+D) https://github.com/CarlosEReis/er7_ass-tec-ui
+
 ## PARCERIAS
 MOTIRO - https://www.youtube.com/playlist?list=PLPGChmSHw6fP9qqE3xsRecQ204qbEcN3_
+
+## JAVA
+https://github.com/CarlosEReis/er7_ass-tec-api
