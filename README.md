@@ -227,6 +227,7 @@ Gits Interessantes
 
 c) Git - https://github.com/anliben/codestore
 
+## TOTVS
 ## Protheus:
 0) https://tdn.totvs.com/display/public/PROT/Engenharia+Protheus
 1) https://github.com/kanemaki/Advpl-Build-Bot/blob/main/quick-start-ptbr.md - Download de Fontes do Git e Compilação usando Python
@@ -251,6 +252,9 @@ https://docker-protheus.engpro.totvs.com.br/
 
 ## Empresas TESTE PROTHEUS
 9901TESTEMATRIZ / 9902TESTEFILIAL02 / 9903TESTEFILIAL03 / ZZ01TESTEPYME / ZZ02TESTEFILIAL02 / ZZ03TESTEFILIAL03 / ZZ01TESTEEXPRESS / ZZ02TESTEFILIAL02 / ZZ03TESTEFILIAL03
+
+## RM
+Cursos: https://www.knowgap.com.br/plataforma-knowgap/
 
 ## Automações para criação de robo
 https://github.com/puppeteer/puppeteer
