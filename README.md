@@ -171,6 +171,8 @@ A) https://materializecss.com/
 
 2) https://vercel.com
 
+3) MicroSoft - https://visualstudio.microsoft.com/pt-br/app-center/
+
 ## Lojas Virtual
 1) https://lojaintegrada.com.br/ - Plataforma para criação de lojas Virtual de forma configuravel (Configuração de Forma de Pagamento, Entrega e Produtos)
   https://bellacris.lojaintegrada.com.br/
