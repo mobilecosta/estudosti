@@ -218,6 +218,8 @@ https://chatpion.com/
 ## Apps
 https://ionicframework.com/docs/developing/android
 
+## LORENCINI - https://play.google.com/store/apps/details?id=com.lorencini.coletadefluido2&pli=1
+
 Estudos
 1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
 
