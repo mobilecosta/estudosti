@@ -26,6 +26,9 @@ https://github.com/tiago-dias-laureano/PixJS/
 2) NodeJS - https://nodejs.org/en/ - FrameWork de Execução de código JavaScript
 3) PostMan - Ferramenta da Google para consumo de servidores baseado em Rest (https://www.postman.com/)
 
+## INTEGRACOES
+https://www.youtube.com/watch?v=3zKtA-YWJxw
+
 ## Formação
 http://cataline.io
 
