@@ -96,9 +96,11 @@ https://www.crieseusjogos.com.br/
   
   e) https://www.receitaws.com.br/  
 
-https://dashboard.ngrok.com
+f) https://dashboard.ngrok.com
 
-https://bizify.com.br/
+g) https://bizify.com.br/
+
+h) https://github.com/leonardonhesi/apicredito - SERASA
   
 Parcerias
 Aprovador
