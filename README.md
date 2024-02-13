@@ -218,7 +218,7 @@ https://chatpion.com/
 ## Docker
 1) https://docs.docker.com/docker-for-windows/install/
 2) Docker PostgreSQL - https://hub.docker.com/r/guilhermebigois/postgres4protheus
-3) tps://docker-protheus.engpro.totvs.com.br/
+3) https://docker-protheus.engpro.totvs.com.br/
 
 ## Apps
 https://ionicframework.com/docs/developing/android
