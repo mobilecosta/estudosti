@@ -352,3 +352,6 @@ MOTIRO - https://www.youtube.com/playlist?list=PLPGChmSHw6fP9qqE3xsRecQ204qbEcN3
 
 ## JAVA
 https://github.com/CarlosEReis/er7_ass-tec-api
+
+## DOTNET
+https://medium.com/totvsdevelopers/construindo-uma-aplica%C3%A7%C3%A3o-em-tempo-real-com-websockets-integrando-asp-net-sql-serve-e-angular-f08eef367ff8
